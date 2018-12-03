@@ -1,0 +1,68 @@
+D:\Share\Dropbox\.Net Works\BilgeAdamEğitim\Homework\NetCoreMvcApplicationFirstWeek\NetCoreMvcApplicationFirstWeek\bin\Debug\netcoreapp2.1\NetCoreMvcApplicationFirstWeek.deps.json
+D:\Share\Dropbox\.Net Works\BilgeAdamEğitim\Homework\NetCoreMvcApplicationFirstWeek\NetCoreMvcApplicationFirstWeek\bin\Debug\netcoreapp2.1\NetCoreMvcApplicationFirstWeek.runtimeconfig.json
+D:\Share\Dropbox\.Net Works\BilgeAdamEğitim\Homework\NetCoreMvcApplicationFirstWeek\NetCoreMvcApplicationFirstWeek\bin\Debug\netcoreapp2.1\NetCoreMvcApplicationFirstWeek.runtimeconfig.dev.json
+D:\Share\Dropbox\.Net Works\BilgeAdamEğitim\Homework\NetCoreMvcApplicationFirstWeek\NetCoreMvcApplicationFirstWeek\bin\Debug\netcoreapp2.1\NetCoreMvcApplicationFirstWeek.dll
+D:\Share\Dropbox\.Net Works\BilgeAdamEğitim\Homework\NetCoreMvcApplicationFirstWeek\NetCoreMvcApplicationFirstWeek\bin\Debug\netcoreapp2.1\NetCoreMvcApplicationFirstWeek.pdb
+D:\Share\Dropbox\.Net Works\BilgeAdamEğitim\Homework\NetCoreMvcApplicationFirstWeek\NetCoreMvcApplicationFirstWeek\bin\Debug\netcoreapp2.1\NetCoreMvcApplicationFirstWeek.Views.dll
+D:\Share\Dropbox\.Net Works\BilgeAdamEğitim\Homework\NetCoreMvcApplicationFirstWeek\NetCoreMvcApplicationFirstWeek\bin\Debug\netcoreapp2.1\NetCoreMvcApplicationFirstWeek.Views.pdb
+D:\Share\Dropbox\.Net Works\BilgeAdamEğitim\Homework\NetCoreMvcApplicationFirstWeek\NetCoreMvcApplicationFirstWeek\obj\Debug\netcoreapp2.1\NetCoreMvcApplicationFirstWeek.csprojAssemblyReference.cache
+D:\Share\Dropbox\.Net Works\BilgeAdamEğitim\Homework\NetCoreMvcApplicationFirstWeek\NetCoreMvcApplicationFirstWeek\obj\Debug\netcoreapp2.1\NetCoreMvcApplicationFirstWeek.csproj.CoreCompileInputs.cache
+D:\Share\Dropbox\.Net Works\BilgeAdamEğitim\Homework\NetCoreMvcApplicationFirstWeek\NetCoreMvcApplicationFirstWeek\obj\Debug\netcoreapp2.1\NetCoreMvcApplicationFirstWeek.RazorAssemblyInfo.cache
+D:\Share\Dropbox\.Net Works\BilgeAdamEğitim\Homework\NetCoreMvcApplicationFirstWeek\NetCoreMvcApplicationFirstWeek\obj\Debug\netcoreapp2.1\NetCoreMvcApplicationFirstWeek.RazorAssemblyInfo.cs
+D:\Share\Dropbox\.Net Works\BilgeAdamEğitim\Homework\NetCoreMvcApplicationFirstWeek\NetCoreMvcApplicationFirstWeek\obj\Debug\netcoreapp2.1\NetCoreMvcApplicationFirstWeek.AssemblyInfoInputs.cache
+D:\Share\Dropbox\.Net Works\BilgeAdamEğitim\Homework\NetCoreMvcApplicationFirstWeek\NetCoreMvcApplicationFirstWeek\obj\Debug\netcoreapp2.1\NetCoreMvcApplicationFirstWeek.AssemblyInfo.cs
+D:\Share\Dropbox\.Net Works\BilgeAdamEğitim\Homework\NetCoreMvcApplicationFirstWeek\NetCoreMvcApplicationFirstWeek\obj\Debug\netcoreapp2.1\NetCoreMvcApplicationFirstWeek.TagHelpers.input.cache
+D:\Share\Dropbox\.Net Works\BilgeAdamEğitim\Homework\NetCoreMvcApplicationFirstWeek\NetCoreMvcApplicationFirstWeek\obj\Debug\netcoreapp2.1\NetCoreMvcApplicationFirstWeek.TagHelpers.output.cache
+D:\Share\Dropbox\.Net Works\BilgeAdamEğitim\Homework\NetCoreMvcApplicationFirstWeek\NetCoreMvcApplicationFirstWeek\obj\Debug\netcoreapp2.1\NetCoreMvcApplicationFirstWeek.RazorCoreGenerate.cache
+D:\Share\Dropbox\.Net Works\BilgeAdamEğitim\Homework\NetCoreMvcApplicationFirstWeek\NetCoreMvcApplicationFirstWeek\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\Share\Dropbox\.Net Works\BilgeAdamEğitim\Homework\NetCoreMvcApplicationFirstWeek\NetCoreMvcApplicationFirstWeek\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\Share\Dropbox\.Net Works\BilgeAdamEğitim\Homework\NetCoreMvcApplicationFirstWeek\NetCoreMvcApplicationFirstWeek\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\Share\Dropbox\.Net Works\BilgeAdamEğitim\Homework\NetCoreMvcApplicationFirstWeek\NetCoreMvcApplicationFirstWeek\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\Share\Dropbox\.Net Works\BilgeAdamEğitim\Homework\NetCoreMvcApplicationFirstWeek\NetCoreMvcApplicationFirstWeek\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Share\Dropbox\.Net Works\BilgeAdamEğitim\Homework\NetCoreMvcApplicationFirstWeek\NetCoreMvcApplicationFirstWeek\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Share\Dropbox\.Net Works\BilgeAdamEğitim\Homework\NetCoreMvcApplicationFirstWeek\NetCoreMvcApplicationFirstWeek\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Share\Dropbox\.Net Works\BilgeAdamEğitim\Homework\NetCoreMvcApplicationFirstWeek\NetCoreMvcApplicationFirstWeek\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Share\Dropbox\.Net Works\BilgeAdamEğitim\Homework\NetCoreMvcApplicationFirstWeek\NetCoreMvcApplicationFirstWeek\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Share\Dropbox\.Net Works\BilgeAdamEğitim\Homework\NetCoreMvcApplicationFirstWeek\NetCoreMvcApplicationFirstWeek\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Share\Dropbox\.Net Works\BilgeAdamEğitim\Homework\NetCoreMvcApplicationFirstWeek\NetCoreMvcApplicationFirstWeek\obj\Debug\netcoreapp2.1\NetCoreMvcApplicationFirstWeek.RazorTargetAssemblyInfo.cache
+D:\Share\Dropbox\.Net Works\BilgeAdamEğitim\Homework\NetCoreMvcApplicationFirstWeek\NetCoreMvcApplicationFirstWeek\obj\Debug\netcoreapp2.1\NetCoreMvcApplicationFirstWeek.RazorTargetAssemblyInfo.cs
+D:\Share\Dropbox\.Net Works\BilgeAdamEğitim\Homework\NetCoreMvcApplicationFirstWeek\NetCoreMvcApplicationFirstWeek\obj\Debug\netcoreapp2.1\NetCoreMvcApplicationFirstWeek.Views.pdb
+D:\Share\Dropbox\.Net Works\BilgeAdamEğitim\Homework\NetCoreMvcApplicationFirstWeek\NetCoreMvcApplicationFirstWeek\obj\Debug\netcoreapp2.1\NetCoreMvcApplicationFirstWeek.dll
+D:\Share\Dropbox\.Net Works\BilgeAdamEğitim\Homework\NetCoreMvcApplicationFirstWeek\NetCoreMvcApplicationFirstWeek\obj\Debug\netcoreapp2.1\NetCoreMvcApplicationFirstWeek.pdb
+D:\Share\Dropbox\.Net Works\BilgeAdamEğitim\Homework\NetCoreMvcApplicationFirstWeek\NetCoreMvcApplicationFirstWeek\obj\Debug\netcoreapp2.1\NetCoreMvcApplicationFirstWeek.csproj.CopyComplete
+D:\Share\Dropbox\.Net Works\BilgeAdamEğitim\Homework\NetCoreMvcApplicationFirstWeek\NetCoreMvcApplicationFirstWeek\obj\Debug\netcoreapp2.1\Razor\Views\Product\Create.g.cshtml.cs
+D:\Share\Dropbox\.Net Works\BilgeAdamEğitim\Homework\NetCoreMvcApplicationFirstWeek\NetCoreMvcApplicationFirstWeek\obj\Debug\netcoreapp2.1\Razor\Views\Product\Index.g.cshtml.cs
+D:\Github\CoreMvcProject\NetCoreMvcApplicationFirstWeek\bin\Debug\netcoreapp2.1\NetCoreMvcApplicationFirstWeek.deps.json
+D:\Github\CoreMvcProject\NetCoreMvcApplicationFirstWeek\bin\Debug\netcoreapp2.1\NetCoreMvcApplicationFirstWeek.runtimeconfig.json
+D:\Github\CoreMvcProject\NetCoreMvcApplicationFirstWeek\bin\Debug\netcoreapp2.1\NetCoreMvcApplicationFirstWeek.runtimeconfig.dev.json
+D:\Github\CoreMvcProject\NetCoreMvcApplicationFirstWeek\bin\Debug\netcoreapp2.1\NetCoreMvcApplicationFirstWeek.dll
+D:\Github\CoreMvcProject\NetCoreMvcApplicationFirstWeek\bin\Debug\netcoreapp2.1\NetCoreMvcApplicationFirstWeek.pdb
+D:\Github\CoreMvcProject\NetCoreMvcApplicationFirstWeek\bin\Debug\netcoreapp2.1\NetCoreMvcApplicationFirstWeek.Views.dll
+D:\Github\CoreMvcProject\NetCoreMvcApplicationFirstWeek\bin\Debug\netcoreapp2.1\NetCoreMvcApplicationFirstWeek.Views.pdb
+D:\Github\CoreMvcProject\NetCoreMvcApplicationFirstWeek\obj\Debug\netcoreapp2.1\NetCoreMvcApplicationFirstWeek.csprojAssemblyReference.cache
+D:\Github\CoreMvcProject\NetCoreMvcApplicationFirstWeek\obj\Debug\netcoreapp2.1\NetCoreMvcApplicationFirstWeek.csproj.CoreCompileInputs.cache
+D:\Github\CoreMvcProject\NetCoreMvcApplicationFirstWeek\obj\Debug\netcoreapp2.1\NetCoreMvcApplicationFirstWeek.RazorAssemblyInfo.cache
+D:\Github\CoreMvcProject\NetCoreMvcApplicationFirstWeek\obj\Debug\netcoreapp2.1\NetCoreMvcApplicationFirstWeek.RazorAssemblyInfo.cs
+D:\Github\CoreMvcProject\NetCoreMvcApplicationFirstWeek\obj\Debug\netcoreapp2.1\NetCoreMvcApplicationFirstWeek.AssemblyInfoInputs.cache
+D:\Github\CoreMvcProject\NetCoreMvcApplicationFirstWeek\obj\Debug\netcoreapp2.1\NetCoreMvcApplicationFirstWeek.AssemblyInfo.cs
+D:\Github\CoreMvcProject\NetCoreMvcApplicationFirstWeek\obj\Debug\netcoreapp2.1\NetCoreMvcApplicationFirstWeek.TagHelpers.input.cache
+D:\Github\CoreMvcProject\NetCoreMvcApplicationFirstWeek\obj\Debug\netcoreapp2.1\NetCoreMvcApplicationFirstWeek.TagHelpers.output.cache
+D:\Github\CoreMvcProject\NetCoreMvcApplicationFirstWeek\obj\Debug\netcoreapp2.1\NetCoreMvcApplicationFirstWeek.RazorCoreGenerate.cache
+D:\Github\CoreMvcProject\NetCoreMvcApplicationFirstWeek\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\Github\CoreMvcProject\NetCoreMvcApplicationFirstWeek\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\Github\CoreMvcProject\NetCoreMvcApplicationFirstWeek\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\Github\CoreMvcProject\NetCoreMvcApplicationFirstWeek\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\Github\CoreMvcProject\NetCoreMvcApplicationFirstWeek\obj\Debug\netcoreapp2.1\Razor\Views\Product\Create.g.cshtml.cs
+D:\Github\CoreMvcProject\NetCoreMvcApplicationFirstWeek\obj\Debug\netcoreapp2.1\Razor\Views\Product\Index.g.cshtml.cs
+D:\Github\CoreMvcProject\NetCoreMvcApplicationFirstWeek\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Github\CoreMvcProject\NetCoreMvcApplicationFirstWeek\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Github\CoreMvcProject\NetCoreMvcApplicationFirstWeek\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Github\CoreMvcProject\NetCoreMvcApplicationFirstWeek\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Github\CoreMvcProject\NetCoreMvcApplicationFirstWeek\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Github\CoreMvcProject\NetCoreMvcApplicationFirstWeek\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Github\CoreMvcProject\NetCoreMvcApplicationFirstWeek\obj\Debug\netcoreapp2.1\NetCoreMvcApplicationFirstWeek.RazorTargetAssemblyInfo.cache
+D:\Github\CoreMvcProject\NetCoreMvcApplicationFirstWeek\obj\Debug\netcoreapp2.1\NetCoreMvcApplicationFirstWeek.RazorTargetAssemblyInfo.cs
+D:\Github\CoreMvcProject\NetCoreMvcApplicationFirstWeek\obj\Debug\netcoreapp2.1\NetCoreMvcApplicationFirstWeek.Views.pdb
+D:\Github\CoreMvcProject\NetCoreMvcApplicationFirstWeek\obj\Debug\netcoreapp2.1\NetCoreMvcApplicationFirstWeek.dll
+D:\Github\CoreMvcProject\NetCoreMvcApplicationFirstWeek\obj\Debug\netcoreapp2.1\NetCoreMvcApplicationFirstWeek.pdb
+D:\Github\CoreMvcProject\NetCoreMvcApplicationFirstWeek\obj\Debug\netcoreapp2.1\NetCoreMvcApplicationFirstWeek.csproj.CopyComplete
