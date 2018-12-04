@@ -15,23 +15,25 @@ namespace NetCoreMvcApplicationFirstWeek.Controllers
     public class ProductController : Controller
     {
 
-        ProductRepository productRepository = new ProductRepository();
+        private readonly IProductRepository _productRepository;
         private readonly IHostingEnvironment _hostingEnvironment;
 
         List<SelectListItem> brands = new List<SelectListItem>()
         {
-               new SelectListItem("1", "Merco"),
-               new SelectListItem("2", "Bmw"),
-               new SelectListItem("3", "Audi"),
+               new SelectListItem("Merco", "1"),
+               new SelectListItem("Bmw", "2"),
+               new SelectListItem("Audi", "3"),
         };
-        public ProductController(IHostingEnvironment hostingEnvironment)
+
+        public ProductController(IHostingEnvironment hostingEnvironment, IProductRepository productRepository)
         {
             _hostingEnvironment = hostingEnvironment;
+            _productRepository = productRepository;
         }
 
         public IActionResult Index()
         {
-            var products = productRepository.GetAll();
+            var products = _productRepository.GetAll();
             return View(products);
         }
 
@@ -48,18 +50,20 @@ namespace NetCoreMvcApplicationFirstWeek.Controllers
         public IActionResult Create(ProductCreateViewModel p)
         {
 
-           
+
             if (p.File.Length > 0)
             {
                 var filePath = Path.Combine(_hostingEnvironment.WebRootPath, @"images");
-                using (var stream = new FileStream(filePath, FileMode.Create))
+                var imagePath = Path.Combine(filePath, p.File.FileName);
+                using (var stream = new FileStream(imagePath, FileMode.Create))
                 {
                     p.File.CopyToAsync(stream);
                     p.Product.Image = p.File.FileName;
                 }
             }
 
-            productRepository.Create(p.Product);
+            p.Product.BrandId = Convert.ToInt32(p.Brand);
+            _productRepository.Create(p.Product);
 
             return RedirectToAction("Index");
         }

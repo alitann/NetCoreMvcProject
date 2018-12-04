@@ -13,7 +13,7 @@ namespace NetCoreMvcApplicationFirstWeek.ViewModels
         public Product  Product{ get; set; }
         public  IFormFile File { get; set; }
         public List<SelectListItem> Brands { get; set; }
-        public string BrandName { get; set; }
+        public string Brand { get; set; }
 
     }
 }

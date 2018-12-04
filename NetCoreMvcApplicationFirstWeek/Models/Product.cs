@@ -21,5 +21,7 @@ namespace NetCoreMvcApplicationFirstWeek.Models
 
         [DisplayName("Resim")]
         public string Image { get; set; }
+
+        public int BrandId { get; set; }
     }
 }
